@@ -1,6 +1,14 @@
 """This is a calculator"""
 
-n1 = int(input("Enter 1st num: "))
-n2 = int(input("Enter 2nd num: "))
+# ADD function defination
 
-ch = int(input("1. Addition \n2. Subtraction \nEnter Choice: "))
+# SUB function defination
+
+
+if __name__ == "__main__":
+	n1 = input("Enter num1")
+	n2 = input("Enter num2")
+
+	#ADD function call below
+
+	#SUB function call below
